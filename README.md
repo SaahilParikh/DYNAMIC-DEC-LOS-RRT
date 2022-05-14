@@ -30,7 +30,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/SaahilParikh/DYNAMIC-DEC-LOS-RRT/blob/main/src/test.png">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="src/test.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Dynamic Dec-LOS-RTT</h3>
@@ -82,8 +82,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 The problem of ensuring the safety of multi-agent motion when agents cannot contact each other is essential for path planning in the real world. It is difficult to control the agents experiencing instantaneous stops to avoid collisions. To address this problem, we develop a new algorithm Dynamic DEC-LOS-RRT based on the existing approach DEC-LOS- RRT. A new radial velocity set is defined around the corners of each obstacle to make robots stop smoothly. This is implemented by constraining the configuration space of each robot and adding constraints to the local planning algorithm. Simulation and hardware show our algorithm guarantees the effectiveness of path planning and safety for decentralized planning for multi-agent systems.
 
