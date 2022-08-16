@@ -35,7 +35,7 @@
 
   <h3 align="center">Dynamic Dec-LOS-RTT</h3>
   <h4 align="center">By Saahil Parikh and Yi Wang</h4>
-  <h5 alight="center"><a href="https://github.com/SaahilParikh/DYNAMIC-DEC-LOS-RRT/blob/main/Research%20Paper.pdf">Check out the paper</a></h5>
+  <h5 alight="center"><a href="https://github.com/SaahilParikh/DYNAMIC-DEC-LOS-RRT/blob/main/Research%20Paper.pdf">Check out the paper</a> and the <a href="https://saahilparikh.github.io/DYNAMIC-DEC-LOS-RRT/">website slideshow</a></h5>
 
   <p align="center">
     Research involving dynamic agents with line of sight communication.
